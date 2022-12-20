@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saul-prog
 - 👀 I’m interested in learning as much as possible
-- 🌱 I’m currently learning PHP, Java, c, c++, HTML5, CSS, MySQL
-<!-- 💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning PHP, Java, C, C++, HTML5, CSS, MySQL
 - 📫 How to reach me saulotgar@usal.es
 - 👨‍🎓  In my last year of college
 <!---
